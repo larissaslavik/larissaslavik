@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/lari-desktop.svg" alt="Lari's little corner of the internet — a pastel retro desktop with a pixel cat" width="900" />
+  <img src="lari-desktop.svg" alt="Lari's little corner of the internet — a pastel retro desktop with a pixel cat" width="900" />
 </p>
 
 <h1 align="center">Hi, I'm Lari <sub>（＾・ω・＾）</sub></h1>
@@ -47,7 +47,7 @@ I like understanding how a system behaves when things go wrong — and helping t
 
 
 <p align="center">
-  <img src="assets/web-buttons.svg" alt="Decorative retro buttons: Java inside, handmade web, kaomoji club" width="460" />
+  <img src="web-buttons.svg" alt="Decorative retro buttons: Java inside, handmade web, kaomoji club" width="460" />
 </p>
 
 <p align="center"><sub>thanks for stopping by · take a little curiosity with you (づ｡◕‿‿◕｡)づ</sub></p>
