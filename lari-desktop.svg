@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Lari's little corner of the internet</title>
+  <desc id="desc">A lavender retro desktop window with a pink pixel cat, stars and the words backend, cloud and handmade web.</desc>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#d8cee9" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="16" fill="#f4effb"/>
+  <rect width="1200" height="380" rx="16" fill="url(#grid)"/>
+  <g fill="#8c6aab"><path d="M62 64h6v12h12v6H68v12h-6V82H50v-6h12z"/><path d="M1120 286h5v10h10v5h-10v10h-5v-10h-10v-5h10z"/></g>
+  <rect x="104" y="45" width="1000" height="300" rx="5" fill="#c9b5dc"/>
+  <rect x="94" y="35" width="1000" height="300" rx="5" fill="#fffafc" stroke="#715b8c" stroke-width="3"/>
+  <path d="M99 35h990q5 0 5 5v39H94V40q0-5 5-5z" fill="#d9c7ef"/>
+  <path d="M94 79h1000" stroke="#715b8c" stroke-width="3"/>
+  <g font-family="monospace" fill="#49365f">
+    <text x="116" y="64" font-size="19">larissa / home / welcome.txt</text>
+    <text x="1020" y="64" font-size="22">_ □ ×</text>
+    <text x="140" y="125" font-size="16" letter-spacing="3">A LITTLE CORNER OF THE INTERNET</text>
+    <text x="137" y="191" font-family="Georgia,serif" font-size="57">Hello, world. I'm Larissa.</text>
+    <text x="140" y="230" font-size="19">backend · cloud · handmade web</text>
+    <text x="140" y="290" font-size="16">[ curiosity is always welcome here ]</text>
+  </g>
+  <g transform="translate(875 119) scale(5)" shape-rendering="crispEdges">
+    <path d="M0 0h5v3h3v3h13V3h3V0h5v26H0z" fill="#715b8c"/>
+    <path d="M2 3h2v4h4v2h13V7h4V3h2v21H2z" fill="#f4bed5"/>
+    <path d="M5 13h3v3H5zm16 0h3v3h-3z" fill="#49365f"/>
+    <path d="M13 17h3v2h-3zM10 19h3v2h-3zm6 0h3v2h-3z" fill="#49365f"/>
+    <path d="M3 18h4v2H3zm20 0h4v2h-4z" fill="#e58fb6"/>
+  </g>
+  <path d="M1058 135h4v8h8v4h-8v8h-4v-8h-8v-4h8z" fill="#b18bcf"/>
+  <rect x="895" y="280" width="125" height="24" rx="12" fill="#e6f2de"/>
+  <circle cx="911" cy="292" r="4" fill="#577344"/>
+  <text x="925" y="297" font-family="monospace" font-size="14" fill="#3e5831">say hello</text>
+</svg>
