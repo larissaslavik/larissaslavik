@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="552" height="62" viewBox="0 0 552 62" role="img" aria-labelledby="title">
+  <title id="title">Java inside. Handmade web. Kaomoji club.</title>
+  <g font-family="monospace" font-size="15" font-weight="bold" text-anchor="middle">
+    <rect x="2" y="4" width="170" height="52" fill="#dfc7ef" stroke="#715b8c" stroke-width="2"/>
+    <path d="M4 54V6h166" stroke="#fff" stroke-width="3" fill="none"/>
+    <text x="87" y="36" fill="#49365f">JAVA INSIDE</text>
+    <rect x="190" y="4" width="170" height="52" fill="#f5cadc" stroke="#9c5477" stroke-width="2"/>
+    <path d="M192 54V6h166" stroke="#fff" stroke-width="3" fill="none"/>
+    <text x="275" y="36" fill="#6e3552">HANDMADE WEB</text>
+  </g>
+</svg>
